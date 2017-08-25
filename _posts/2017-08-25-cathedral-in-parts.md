@@ -7,6 +7,6 @@ layout: post
 permalink: >
   http://wordpress.reevedesigns.com/cathedral-in-parts/
 published: true
-post_date: 2017-08-25 21:22:40
+post_date: 2017-08-25 21:38:40
 ---
 Spraypaint on plexi
